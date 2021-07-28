@@ -16,12 +16,10 @@ I promise to do my best to
 
 \-   reflect your personal or professional pursuits the way you envision
 
-\-   provide quality and uniquity 
+\-   provide quality and uniquity in your brand
 
 Ever wondered how can I visually convey an idea or theme, subtly showcase my abilities and productions? 
 
 Don't hesitate to contact me!
 
-Thank you,
-
-Lucy
+Lucy 
