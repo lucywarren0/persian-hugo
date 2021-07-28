@@ -1,7 +1,7 @@
 ---
 title: 'I''m a Freelance Designer/Artist Based In North Carolina. '
 image: images/author.jpg
-description: 'META DESCRIPTION RA RA RA '
+description: META DESCRIPTION
 
 ---
 I have a passion for design composition with the goal to offer the very best to web developers, small businesses, entrepreneurs, and individuals seeking a pièce de résistance.
