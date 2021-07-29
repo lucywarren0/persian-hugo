@@ -17,7 +17,7 @@ url = "about"
 weight = 2
 [[menu.main]]
 name = "Category"
-url = "categories/nature/"
+url = "categories"
 weight = 3
 [[menu.main]]
 name = "Contact"
