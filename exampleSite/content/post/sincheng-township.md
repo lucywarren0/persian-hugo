@@ -1,6 +1,6 @@
 +++
 author = "Lucy Warren"
-categories = []
+categories = ["Taiwan"]
 date = 2019-08-15T04:00:00Z
 description = ""
 image = "/images/sincheng-shore-1.jpg"
