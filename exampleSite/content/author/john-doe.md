@@ -1,6 +1,6 @@
 ---
 title: Lucy Warren
-image: "/images/author.jpg"
+image: "/images/hair.jpg"
 email: lucywarren0@gmail.com
 social:
 - icon: ''
